@@ -1,0 +1,22 @@
+{
+  "name": "table_editable_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "keywords": [
+    "parcel",
+    "react"
+  ],
+  "author": "“Lakshaya Sood",
+  "license": "Nahi hai",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  }
+}

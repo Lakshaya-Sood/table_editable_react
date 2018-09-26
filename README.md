@@ -1,1 +1,4 @@
-# table_editable_react
+run:
+npm i
+then:
+npm start
