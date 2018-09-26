@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import EditableTable from './EditableTable';
+import "../node_modules/react-table/react-table.css";
 
 ReactDOM.render(
-  <App />,
+  <EditableTable />,
   document.getElementById('root')
 );
