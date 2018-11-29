@@ -1,7 +1,7 @@
 {
-  "name": "table_editable_react",
+  "name": "parcel-reactjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal React.js boilerplate with parcel as bundler",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html"
@@ -10,12 +10,11 @@
     "parcel",
     "react"
   ],
-  "author": "“Lakshaya Sood",
-  "license": "Nahi hai",
+  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
+  "license": "MIT",
   "dependencies": {
-    "react": "15.6.1",
-    "react-dom": "15.4.1",
-    "react-table": "6.6.0"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"

@@ -1,0 +1,21 @@
+#huTable {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#huTable td, #huTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+.table-chk {
+  -ms-transform: scale(2); 
+  -moz-transform: scale(2);
+  -webkit-transform: scale(2);
+  -o-transform: scale(2);
+}
+
+.childClassTD {
+  background-color: #88888873;
+}
